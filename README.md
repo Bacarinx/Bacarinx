@@ -9,7 +9,7 @@
 
 ## 
 <h2>Portfolio Pessoal</h2>
-<a href="https://bacarindev.vercel.app/" target="_blank">Visitar</a>
+<a href="https://bacarindev.vercel.app/" target="_blank">Visitar Portfolio</a>
 
 ## 
 <h2>Tecnologias Utilizadas em meu dia a dia 👨‍💻</h2>
