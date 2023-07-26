@@ -8,6 +8,10 @@
 </div>
 
 ## 
+<h2>Portfolio Pessoal</h2>
+<a href="https://bacarindev.vercel.app/" target="_blank">Visitar</a>
+
+## 
 <h2>Tecnologias Utilizadas em meu dia a dia 👨‍💻</h2>
 <div style="display: flex"> 
   <div style="display: inline_block"><br>
