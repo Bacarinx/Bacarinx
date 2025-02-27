@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Henrique+Bacarin.;Tenho+20Anos.;Moro+em+Sorocaba-SP.;Sou+Estudante+de+Back-end+e+Front-end.;Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Henrique+Bacarin.;Tenho+20+Anos.;Moro+em+Sorocaba-SP.;Sou+Estudante+de+Back-end+e+Front-end.;Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ## 
 <h1>Olá. Eu sou o Henrique Bacarin 👋</h1>
